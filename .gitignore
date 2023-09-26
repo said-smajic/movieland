@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+.cache/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.env.development
+.env.test
+.env.production
+
+# build output
+build/
+dist/
+.next/
+out/
+
+# macOS
+.DS_Store
+
+# editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.sw?
+
+# dependencies
+package-lock.json
+yarn.lock
